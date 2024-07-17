@@ -1,5 +1,4 @@
-# Write a function to check if a number is even or odd
- 
+# Write a function that checks if a number is even or odd
 
 def get_user_input():
     return int(input("Enter a number (or 0 to quit): "))
