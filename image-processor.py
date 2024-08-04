@@ -1,4 +1,4 @@
-from pillow import Image
+from PIL import Image
 Image.open('./Presh.JPG')
 
 
